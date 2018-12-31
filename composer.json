@@ -24,10 +24,3 @@
         "psr-4": {
             "Stichoza\\GoogleTranslate\\": "src/Stichoza/GoogleTranslate/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Stichoza\\GoogleTranslate\\Tests\\": "tests/"
-        }
-    }
-}
